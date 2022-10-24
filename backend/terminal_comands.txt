@@ -1,0 +1,13 @@
+yarn init -yarn
+yarn add -D typescript
+yarn add express
+yarn add @types/express -D
+$ yarn tsc src/index.ts
+yarn tsc --init
+yarn tsc
+yarn add cors
+yarn add @types/cors -D
+
+//criar proj em react types front
+yarn create react-app frontend --template=typescript
+
